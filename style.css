@@ -180,7 +180,7 @@ a { text-decoration: none; color: inherit; }
   font-size: 5rem;
   box-shadow: 0 0 40px var(--glow), 0 0 80px var(--glow2);
   z-index: 2;
-  animation: float 4s ease-in-out infinite;
+
 }
 .avatar-photo {
   width: 100%;
