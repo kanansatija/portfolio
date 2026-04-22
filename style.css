@@ -226,10 +226,7 @@ a { text-decoration: none; color: inherit; }
   align-items: flex-start;
   transition: transform var(--transition), box-shadow var(--transition);
 }
-.about-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(124, 106, 247, 0.15);
-}
+
 
 .about-icon {
   font-size: 2.5rem;
